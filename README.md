@@ -1,4 +1,3 @@
-# Mercari_challenge
 
 ----------- Présentation et contexte du projet------------------
 
