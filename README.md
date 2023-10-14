@@ -5,9 +5,10 @@ Dans le cadre de notre projet mémoire de fin de formation MLOPS, nous avons ré
 L’objectif de notre projet est de créer une api destinée aux vendeurs du site. L’api doit pouvoir proposer des suggestions de prix aux vendeurs pour chaque article en fonction des éléments indiqués par le vendeur. 
 
 Ce projet a été développé par:
+- Rym BEN HASSINE ([GitHub](https://github.com/RymBH) / [LinkedIn](https://www.linkedin.com/in/rym-ben-hassine-136b34109/))
 - Amina ABBI ([GitHub](https://github.com/Amouna95) / [LinkedIn](https://www.linkedin.com/in/amina-abbi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACIrt3EBXzTjLFA4D0G7knBANZ0DV9LBqI4&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BIsfWB9uARUONCWdZ7TYsKQ%3D%3D))
 - Eleonora FABRIS ([GitHub](https://github.com/elfabris) / [LinkedIn](https://www.linkedin.com/in/eleonora-fabris?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA6z0dABJ84tlvxAqU9GjNE5TVH-VZQU6ik&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BJbHa5w%2FOQA6hMWchuaJ8%2BA%3D%3D))
-- Rym BEN HASSINE ([GitHub](https://github.com/RymBH) / [LinkedIn](https://www.linkedin.com/in/rym-ben-hassine-136b34109/))
+
 
 Organisation du Projet
 ------------
